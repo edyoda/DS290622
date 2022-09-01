@@ -7,9 +7,18 @@
 - [Linear Search](https://www.programiz.com/dsa/linear-search)
 - [Binary Search](https://www.programiz.com/dsa/binary-search)
 - [Stack](https://www.programiz.com/dsa/stack)
+- [Queue](https://www.programiz.com/dsa/queue)
+
 
 
 ## Problem Solving Questions 
 
 - [Arrays](https://leetcode.com/tag/array/)
 - [Searching](https://leetcode.com/tag/binary-search)
+- [Stack](https://leetcode.com/tag/stack/)
+- [Queue](https://leetcode.com/tag/queue/)
+
+
+## Few Interview Questions
+
+ - [InterviewBit](https://www.interviewbit.com/data-structure-interview-questions/)
