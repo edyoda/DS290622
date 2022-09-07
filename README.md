@@ -1,4 +1,9 @@
-# DSA Basics - DS290622
+# DSA Basics & Python Certification Preparation - DS290622
+
+This repo contains day wise discussed content
+
+- D1 to D5 - DSA Basics
+* D6 to Last - Python Certification Preparation 
 
 ## Resources
 
@@ -13,7 +18,6 @@
 - [Time & Space Complexity](https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/tutorial/)
 - [Big-O notation](https://en.wikipedia.org/wiki/Big_O_notation)
 - [Jupyter Notebook Install Steps](https://medium.com/@anilkumarteegala/getting-started-with-anaconda-and-jupyter-notebook-on-windows-68e68a2a3bbb)
-
 
 ## Problem Solving Questions 
 
